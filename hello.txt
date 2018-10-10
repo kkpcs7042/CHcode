@@ -1,1 +1,5 @@
-Hello GitHubgit remote -v
+#include <stdio.h>
+
+imt main(){
+  Hello GitHubgit remote -v
+}
